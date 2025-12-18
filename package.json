@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://hardias9000.github.io/xpayi",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
